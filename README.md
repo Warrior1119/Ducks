@@ -1,5 +1,7 @@
 # begin-redux
 
+git clone https://github.com/vlpt-playground/begin-redux.git
+
 리덕스 시작하기 튜토리얼 전용 템플릿
 
 이 프로젝트는 총 6가지의 Branch 로 나뉘어져있습니다:
